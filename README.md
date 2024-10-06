@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwardvl21
 - 👀 I’m interested in problem solving and logic
-- 🌱 I’m currently learning freeCodeCamp Fullstack Developer 
+- 🌱 I’m currently learning the freeCodeCamp Fullstack Developer certification
 - 💞️ I’m looking to collaborate on innovations for the future
 - 📫 How to reach me leruoedwardobotseng@gmail.com
 - 😄 Pronouns: He/Him
